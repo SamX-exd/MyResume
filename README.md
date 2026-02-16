@@ -1,2 +1,2 @@
 # MyResume
-Here ismy simple HTML Resume
+Here is my simple HTML Resume
